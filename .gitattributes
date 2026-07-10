@@ -1,2 +1,6 @@
 # Classify Ghostty-related files as INI files.
 .config/ghostty/** linguist-language=ini
+
+# Allow for configuration files to be detected by Linguist.
+*.ini linguist-detectable
+*.toml linguist-detectable
