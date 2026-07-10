@@ -1,0 +1,2 @@
+# Classify Ghostty-related files as INI files.
+.config/ghostty/** linguist-language=ini
